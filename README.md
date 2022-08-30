@@ -1,6 +1,7 @@
-# Handwritting Recognition 
+# HandWritten_Digits_Recognition
 
-## [Step 5-1-4-1 : MNIST Classifier:](step5_1_MNIST_handwritten_digit_classification_.ipynb)
+
+## [Convolution Neural Network](step5_1_MNIST_handwritten_digit_classification_.ipynb)
 
 - Introduction to MNIST 
 - EDA
